@@ -1,0 +1,16 @@
+# ninja log v5
+2	534	7598626453783724	MoviesCatalogue_autogen/timestamp	b3d87f74d8a64d15
+2	534	7598626453783724	MoviesCatalogue_autogen/mocs_compilation.cpp	b3d87f74d8a64d15
+2	534	7598626453783724	C:/Users/David-Liviu/CLionProjects/MoviesCatalogue/cmake-build-debug/MoviesCatalogue_autogen/timestamp	b3d87f74d8a64d15
+2	534	7598626453783724	C:/Users/David-Liviu/CLionProjects/MoviesCatalogue/cmake-build-debug/MoviesCatalogue_autogen/mocs_compilation.cpp	b3d87f74d8a64d15
+540	1199	7598626460922398	CMakeFiles/MoviesCatalogue.dir/repository/FileRepository.cpp.obj	c7825626dc279eb6
+560	1207	7598626460992400	CMakeFiles/MoviesCatalogue.dir/controller/Action.cpp.obj	55e6d0f457343bbd
+546	1219	7598626461113299	CMakeFiles/MoviesCatalogue.dir/domain/Movie.cpp.obj	7d4674d6d6563320
+543	1222	7598626461143292	CMakeFiles/MoviesCatalogue.dir/repository/Repository.cpp.obj	698c8957282d1b4d
+552	1373	7598626462668595	CMakeFiles/MoviesCatalogue.dir/ui/MovieUI.cpp.obj	fb24c4dd47a15015
+538	1518	7598626464108906	CMakeFiles/MoviesCatalogue.dir/controller/MovieServices.cpp.obj	c86843b04200528e
+534	2072	7598626469657090	CMakeFiles/MoviesCatalogue.dir/MoviesCatalogue_autogen/mocs_compilation.cpp.obj	933b120b419a41a
+565	2112	7598626470061142	CMakeFiles/MoviesCatalogue.dir/ui/MyTableView.cpp.obj	f01f50f083cde03d
+556	2782	7598626476757019	CMakeFiles/MoviesCatalogue.dir/main.cpp.obj	eb50fb44eab0a62e
+549	2905	7598626477974468	CMakeFiles/MoviesCatalogue.dir/ui/MovieGUI.cpp.obj	7979d3dc2e7a4df2
+2906	3152	7598626480383621	MoviesCatalogue.exe	5f6aee94cf7e8bb2

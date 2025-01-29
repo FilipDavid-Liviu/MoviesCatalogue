@@ -1,0 +1,19 @@
+The Dark Knight;Action;2008;101;https://www.youtube.com/watch?v=EXeTwQWrcwY
+The Shawsank Redemption;Drama;1994;252;https://www.youtube.com/watch?v=6hB3S9bIaco
+Forrest Gump;Drama, Romance;1994;293;https://www.youtube.com/watch?v=bLvqoHBptjg
+The Matrix;Action, Sci-Fi;1999;134;https://www.youtube.com/watch?v=m8e-FF8MsqU
+The Lord of the Rings: The Fellowship of the Ring;Action, Adventure, Drama;2001;677;https://www.youtube.com/watch?v=V75dMMIW2B4
+Pulp Fiction;Crime, Drama;1994;345;https://www.youtube.com/watch?v=s7EdQ4FqbhY
+Schindler's List;Biography, Drama, History;1993;312;https://www.youtube.com/watch?v=gG22XNhtnoY
+The Silence of the Lambs;Crime, Drama, Thriller;1991;198;https://www.youtube.com/watch?v=lQKs169Sl0I
+Portrait of a Lady on Fire;Romance, Thriller;2019;72;https://www.youtube.com/watch?v=R-fQPTwma9o&ab_channel=NEON
+Titanic;Romance, Drama;1997;1208;https://www.youtube.com/watch?v=ZQ6klONCq4s
+The Lion King;Animation, Adventure, Drama;1994;275;https://www.youtube.com/watch?v=4sj1MT05lAA
+Gladiator;Action, Drama;2000;76;https://www.youtube.com/watch?v=owK1qxDselE
+Jurassic Park;Action, Adventure, Sci-Fi;1993;187;https://www.youtube.com/watch?v=lc0UehYemQA
+The Green Mile;Crime, Drama, Fantasy;1999;263;https://www.youtube.com/watch?v=Ki4haFrqSrw
+The Avengers;Action, Adventure, Sci-Fi;2012;621;https://www.youtube.com/watch?v=eOrNdBpGMv8
+The Dark Knight Rises;Action, Thriller;2012;98;https://www.youtube.com/watch?v=g8evyE9TuYk
+Interstellar;Adventure, Drama, Sci-Fi;2014;480;https://www.youtube.com/watch?v=zSWdZVtXT7E
+The Godfather;Crime, Drama;1972;400;https://www.youtube.com/watch?v=sY1S34973zA
+The Godfather;Crime, Drama;1972;400;https://www.youtube.com/watch?v=sY1S34973zA

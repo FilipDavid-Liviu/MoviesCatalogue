@@ -1,0 +1,11 @@
+"C:\Users\David-Liviu\AppData\Local\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/David-Liviu/AppData/Local/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -DCMAKE_PREFIX_PATH=C:/Qt/6.7.0/mingw_64/lib/cmake -G Ninja -S C:\Users\David-Liviu\CLionProjects\MoviesCatalogue -B C:\Users\David-Liviu\CLionProjects\MoviesCatalogue\cmake-build-debug
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+-- Found Threads: TRUE  
+-- Performing Test HAVE_STDATOMIC
+-- Performing Test HAVE_STDATOMIC - Success
+-- Found WrapAtomic: TRUE  
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+-- Configuring done (0.8s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/David-Liviu/CLionProjects/MoviesCatalogue/cmake-build-debug
