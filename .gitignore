@@ -33,3 +33,4 @@
 *.csv
 *.html
 *.txt
+cmake-build-debug
