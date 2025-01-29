@@ -1,16 +1,17 @@
-Movie Catalogue App
-A simple app that allows users to manage their movie watchlist. The app has two modes: Admin Mode and User Mode.
+# Movie Catalogue App
+A simple app that allows users to manage their movie watchlist.
 
-Admin Mode:
+# Admin Mode:
+<ul> 
+<li>Add movies to the database.
+<li>Remove movies from the database.
+<li>Update movie details (e.g., title, description).
+<li>Undo and Redo changes you made.
+</ul>
 
-Add movies to the database.
-Remove movies from the database.
-Update movie details (e.g., title, description).
-Undo any changes you made.
-Redo any undone changes.
-
-User Mode:
-
-View personal watchlist.
-Search for movies by title to add to watchlist.
-Remove and like movies from watchlist.
+# User Mode:
+<ul> 
+<li>View personal watchlist.
+<li>Search for movies by title to add to watchlist.
+<li>Remove and like movies from watchlist.
+</ul> 
