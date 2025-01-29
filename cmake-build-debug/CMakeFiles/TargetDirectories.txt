@@ -1,5 +1,0 @@
-C:/Users/David-Liviu/CLionProjects/MoviesCatalogue/cmake-build-debug/CMakeFiles/MoviesCatalogue.dir
-C:/Users/David-Liviu/CLionProjects/MoviesCatalogue/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/David-Liviu/CLionProjects/MoviesCatalogue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/David-Liviu/CLionProjects/MoviesCatalogue/cmake-build-debug/CMakeFiles/MoviesCatalogue_autogen_timestamp_deps.dir
-C:/Users/David-Liviu/CLionProjects/MoviesCatalogue/cmake-build-debug/CMakeFiles/MoviesCatalogue_autogen.dir
